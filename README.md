@@ -3,7 +3,7 @@
 ## 📥 Dataset Source
 
 The dataset used in this project was sourced from **Kaggle**:  
-🔗 [Pokemon with stats – by abcsds on Kaggle]([https://www.kaggle.com/datasets/abcsds/pokemon](https://www.kaggle.com/datasets/kingabzpro/pokmon-legendary-data))
+🔗([https://www.kaggle.com/datasets/abcsds/pokemon](https://www.kaggle.com/datasets/kingabzpro/pokmon-legendary-data))  
 
 This project explores what makes a Pokémon *legendary* using data analysis and machine learning techniques in R. With guidance from the legendary Professor Oak, we dive into a Pokédex of 801 Pokémon to identify key traits that separate legendary Pokémon from the rest.
 
